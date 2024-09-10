@@ -1,0 +1,20 @@
+body {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS";
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(255, 240, 192);
+    font-size: 3em;
+}
+a{
+    background-color: rgb(225, 161, 59);
+    text-decoration: none;
+    color: white;
+    padding: 3em;
+    border-radius: 30px;
+    padding: 1em;
+    margin: 3em;
+}
+
+div {
+    text-align: center;
+}
